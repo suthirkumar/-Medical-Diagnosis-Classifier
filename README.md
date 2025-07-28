@@ -1,2 +1,2 @@
 # Medical-Diagnosis-Classifier
-This project involves building and evaluating multiple machine learning models for disease diagnosis using a medical dataset.
+This project applies various machine learning algorithms to analyze and classify medical data for diagnostic purposes. It includes data preprocessing, feature encoding, model training, cross-validation, and performance evaluation using metrics like accuracy, classification reports, and confusion matrices. The goal is to identify the most accurate model for predicting medical diagnoses based on patient data.
